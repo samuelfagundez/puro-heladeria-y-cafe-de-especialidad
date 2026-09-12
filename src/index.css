@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+
+/* Paleta extraída de las fotografías reales del local (ver punto 0.5 del
+   handoff: nunca una paleta genérica de plantilla) — azul marino del
+   toldo y del logotipo "PURO", crema de la fachada y del mostrador,
+   dorado de la iluminación interior y marrón cálido del suelo de madera. */
+@theme {
+  --color-cream: #faf6ee;
+  --color-cream-dark: #efe6d3;
+  --color-ink: #211f2c;
+  --color-navy: #1d3c74;
+  --color-navy-dark: #142a54;
+  --color-cocoa: #6b4a32;
+  --color-cocoa-dark: #4d3423;
+  --color-gold: #d6a44b;
+
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+  }
+}
