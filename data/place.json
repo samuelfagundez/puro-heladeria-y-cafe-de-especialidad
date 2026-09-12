@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/mmaQpdt1wX5AfPNs6",
+    "expandedUrl": "https://www.google.com/maps/place/PURO+Heladeria+y+Cafe+de+especialidad/@39.4745815,-0.3749922,20z/data=!3m1!5s0xd604f4d4c5432f3:0x8445f72a2f02d710!4m6!3m5!1s0xd604f39490b2567:0x768bc3bea57ba6ae!8m2!3d39.4746781!4d-0.3750308!16s%2Fg%2F11xlj2dnld?entry=tts&g_ep=EgoyMDI2MDkwOS4wIPu8ASoASAFQAw%3D%3D&skid=e815e1a9-694d-4029-9bb8-9c57b7fb0a36&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=8542136341825824430&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJZyULSTlPYA0RrqZ7pb7Di3Y",
+    "featureId": "0xd604f39490b2567:0x768bc3bea57ba6ae",
+    "gmapsPlaceRef": "/g/11xlj2dnld",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-12T18:04:54.305Z"
+  },
+  "name": "PURO Heladeria y Cafe de especialidad",
+  "rating": {
+    "score": 4.8,
+    "count": 409
+  },
+  "phone": "+34 633 17 53 00",
+  "phoneNational": "633 17 53 00",
+  "hours": {
+    "weekly": [
+      "lunes: 11:30–15:00, 18:00–23:30",
+      "martes: 11:30–15:00, 18:00–23:30",
+      "miércoles: 11:30–15:00, 18:00–23:30",
+      "jueves: 11:30–15:30, 18:00–23:30",
+      "viernes: 11:30–23:30",
+      "sábado: 11:00–24:00",
+      "domingo: 11:00–23:30"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 11,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 1,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 18,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 2,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 18,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 3,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 18,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 4,
+          "hour": 15,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 18,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 11,
+          "minute": 30
+        },
+        "close": {
+          "day": 5,
+          "hour": 23,
+          "minute": 30
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 11,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 0,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/puro_heladosycafe?igsh=dW15YjVkMXVuY2x3"
+    }
+  ],
+  "pricePerPerson": null,
+  "priceLevel": null,
+  "links": {
+    "website": "https://www.instagram.com/puro_heladosycafe?igsh=dW15YjVkMXVuY2x3",
+    "menu": null,
+    "reservations": null,
+    "reservable": null,
+    "googleMaps": "https://maps.google.com/?cid=8542136341825824430&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd604f39490b2567:0x768bc3bea57ba6ae!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd604f39490b2567:0x768bc3bea57ba6ae!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604f39490b2567:0x768bc3bea57ba6ae!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604f39490b2567:0x768bc3bea57ba6ae!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "Pça. de la Reina, 19, Ciutat Vella, 46003 València, Valencia",
+    "short": "Pça. de la Reina, 19, València",
+    "components": {
+      "number": "19",
+      "street": "Plaça de la Reina",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46003"
+    }
+  },
+  "location": {
+    "lat": 39.4746781,
+    "lng": -0.3750308
+  },
+  "primaryType": "ice_cream_shop",
+  "primaryTypeLabel": "Heladería",
+  "types": [
+    "ice_cream_shop",
+    "dessert_shop",
+    "coffee_shop",
+    "cafe",
+    "confectionery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Comer en el local",
+    "Para llevar",
+    "Apto para niños",
+    "Apto para grupos",
+    "Aseos",
+    "Cafés"
+  ],
+  "accessibility": [
+    "Aparcamiento accesible",
+    "Entrada accesible",
+    "Aseo accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": {
+    "paidParkingLot": false,
+    "paidStreetParking": true,
+    "paidGarageParking": true
+  },
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "PURO Heladeria y Cafe de especialidad",
+      "attributionUri": "https://maps.google.com/maps/contrib/105016683639402941907"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 1080,
+      "heightPx": 1350,
+      "attribution": "PURO Heladeria y Cafe de especialidad",
+      "attributionUri": "https://maps.google.com/maps/contrib/105016683639402941907"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 1320,
+      "heightPx": 1298,
+      "attribution": "PURO Heladeria y Cafe de especialidad",
+      "attributionUri": "https://maps.google.com/maps/contrib/105016683639402941907"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 4257,
+      "heightPx": 4128,
+      "attribution": "PURO Heladeria y Cafe de especialidad",
+      "attributionUri": "https://maps.google.com/maps/contrib/105016683639402941907"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Aldana",
+      "attributionUri": "https://maps.google.com/maps/contrib/114522400989292930359"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "L.V. Freitas",
+      "attributionUri": "https://maps.google.com/maps/contrib/103243303056919029793"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 1440,
+      "heightPx": 1088,
+      "attribution": "Nerina M M",
+      "attributionUri": "https://maps.google.com/maps/contrib/100380143866212370576"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "PURO Heladeria y Cafe de especialidad",
+      "attributionUri": "https://maps.google.com/maps/contrib/105016683639402941907"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Lauren Nelson",
+      "attributionUri": "https://maps.google.com/maps/contrib/103274802344798958878"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 3000,
+      "heightPx": 4000,
+      "attribution": "M Lee",
+      "attributionUri": "https://maps.google.com/maps/contrib/114621262307139384398"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Aldana",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXjcuO2_SQiLe6FncecdKWjXO9l7BTs1zU7g26QL3zL6rqICGA4hQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/114522400989292930359/reviews",
+      "rating": 5,
+      "text": "Fui a por un helado y la verdad es que vale mucho la pena. Muy sabroso, con una buena variedad de sabores y una atención muy amable.\nLos precios quizás son un pelín elevados, pero se entiende por la zona turística en la que se encuentra. Aun así, la calidad lo compensa.\nSi están por Valencia, es una parada más que recomendable.",
+      "language": "es",
+      "relativeTime": "Hace 2 semanas",
+      "publishTime": "2026-08-27T13:15:59.726373646Z"
+    },
+    {
+      "author": "Haize",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocKgGcXwA_KfSJ1n2MJPJ7W-RpnAl9-I250xRBAXDRSoZN06ow=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/101153192692788063633/reviews",
+      "rating": 5,
+      "text": "El mejor helado de Valencia, no hay nada igual! Si te gusta disfrutar de un buen helado sin aditivos ni cosas raras este es tu sitio, sabores top. Es una pena que en la tarrina pequeña solo dejen un sabor siempre me quedo con ganas de ponerle dos 🤣 El affogato con café de especialidad también espectacular.",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-14T17:59:06.373123553Z"
+    },
+    {
+      "author": "Florencia Calvi",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVIX5swSxamBgc_WuQT7TDVUzZCBrgW1WUvfpRx9N9fxDzQ1bRm=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/106226980305140382572/reviews",
+      "rating": 5,
+      "text": "Tarde de lectura, en Puro heladería y café especialidad. Es el helado más rico que he probado en mi vida, por lejos. Y vaya que he probado helados. Los ingredientes son 100% naturales y puros, les sentís a full el sabor. Nada de endulzantes ni aditivos. Además, excelente atención de Javier!",
+      "language": "es",
+      "relativeTime": "Hace 3 meses",
+      "publishTime": "2026-05-24T17:39:57.394366337Z"
+    },
+    {
+      "author": "Gabriel Silic",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJKI5-hy7rKBLht4EcqcLQg92_rJRBakt6-QXZBjXUrmQuFbgI=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/112558139930140615970/reviews",
+      "rating": 5,
+      "text": "Espectacular, hacía años que no comía un helado así, es una heladería artesanal argentina en el medio de Valencia . Hice 70km solo para comprar un kilo y fue la mejor decisión que tome esta semana sin dudas . Además ellos unos genios ✨🫶🏾",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-13T15:37:06.832710168Z"
+    },
+    {
+      "author": "Florencia Sol Acquaro",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocLbn2JEkd5JcS5JVytduUEmRMOaO-TSyswcnO80U9GBdWsWMw=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/105279881578247181363/reviews",
+      "rating": 5,
+      "text": "Me encantó!! El mejor helado que probé en Valencia .\nLos gustos son buenisimos y se nota la calidad de los productos y del helado\nProbé frambuesas al chocolate, banana split y fior di latte, tenia pedazos de frambuesa, me encantó\nApartir de ahora mi parada obligatoria cuando visite Valencia ❤️🍦",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-12T13:48:24.599246108Z"
+    }
+  ]
+}
